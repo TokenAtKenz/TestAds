@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestAds</string>
+
+    <string name="AdmobTestAppID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="AdmobTestBannerID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdmobTestInterstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="AdmobTestReward">ca-app-pub-3940256099942544/5224354917</string>
+
+    //My Test Devices
+    <string name="SM_T280_TestDevice">5C30BAE533E95D250326F2E086EF067D</string>
+    <string name="SGH_1547C_TestDevice">1AD4FB98BC8751F3CA72CA23A189C6ED</string>
+
+
+    <string name="do_banner_on">Banner\nON</string>
+    <string name="do_banner_off">Banner\nOFF</string>
+    <string name="do_ad">Select\nMore Ads</string>
+</resources>
